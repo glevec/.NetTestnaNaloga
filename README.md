@@ -27,8 +27,6 @@ Change the DefaultConnection in appsettings.json to point to your local sqldb
    dotnet run
 ```
 
-### Swagger documentation
-The swagger documentation should be available at the following url:
-http://localhost:5147/swagger/index.html
-
-### Postman collection is located in root of the project
+### Swagger documentation and Postman
+- The swagger documentation should be available at the following url: http://localhost:5147/swagger/index.html
+- Postman collection is located in the root of the project
